@@ -202,3 +202,9 @@ header .menu{
     margin-top: 20px;
     margin-bottom: 20px;
 }
+
+.item-planos ul{
+    padding: 10px 20px;
+    display: flex;
+    flex-direction: column;
+}
